@@ -1,0 +1,47 @@
+{
+    "alunos": [
+      
+      {
+        "nome": "Izabella Miranda",
+        "num_inscricao": "123",
+        "curso": "Informática",
+        "id": 1
+      },
+
+      {
+        "nome": "Joice Miranda",
+        "num_inscricao": "456",
+        "curso": "Mecânica",
+        "id": 2
+      },
+
+      {
+        "nome": "Manuela Miranda",
+        "num_inscricao": "789",
+        "curso": "Pediatria",
+        "id": 4
+      },
+
+      {
+        "nome": "Isadora Miranda",
+        "num_inscricao": "987",
+        "curso": "Psicologia",
+        "id": 4
+      },
+
+      {
+        "nome": "Galiano",
+        "num_inscricao": "654",
+        "curso": "Mecânica",
+        "id": 5
+      },
+
+      {
+        "nome": "Guilherme Pereira",
+        "num_inscricao": "321",
+        "curso": "Arquitetura",
+        "id": 6
+      }
+
+    ]
+  }
